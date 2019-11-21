@@ -1,6 +1,11 @@
 package com.algorithm.study;
 
-
+/**
+ * 二分查找算法：
+ * 复杂度log n
+ * 要求：仅当列表是有序的时候，二分查找才管用。
+ *
+ */
 public class BinarySearch {
 
     public static void main(String[] args) {
